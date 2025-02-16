@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  'base': '/fed24d-js-intro-inl-2-quiz-jazzy/',
+  'base': '/musik_quiz/',
   //css: {
   //  preprocessorOptions: {
   //   scss: {
