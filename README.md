@@ -323,3 +323,8 @@ Validering och analysverktyg säkerställer att HTML, CSS och JavaScript följer
 #### Lighthouse analys
 
 <img src="assets/screenshot_lighthouse_analytic.png" alt="Logo" width="300">
+
+## Betyg
+![image](https://github.com/user-attachments/assets/49fb7d0e-978f-4a4d-aa73-0eebb9fd745f)
+OBS: Fanns bara IG eller G i grupparbetet
+
